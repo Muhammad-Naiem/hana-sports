@@ -80,7 +80,7 @@ footer p{ width:100%; float:left; margin:0;}
 .slick-slider .slick-prev:hover, .slick-slider .slick-next:hover { opacity: .65; }
 .slick-slider .slick-prev { left: 0; }
 .slick-slider .slick-next { right: 0; }
-@media (min-width: 1200px) {
+@media (min-width: 991px) {
     .container-xl {
         max-width: 1380px
     }

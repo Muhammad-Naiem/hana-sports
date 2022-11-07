@@ -1,7 +1,5 @@
 (function ($) {
     $(function () {
-    
-
     if ($('.main-img-slider').length) {    
         
         var sliders = {
